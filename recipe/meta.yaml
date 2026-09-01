@@ -32,7 +32,7 @@ test:
 
 about:
   home: http://atomsk.univ-lille1.fr
-  license: GPL-3.0
+  license: GPL-3.0-or-later
   license_family: GPL
   license_file: LICENSE.txt
   summary: The Swiss-army knife of atomic simulations
